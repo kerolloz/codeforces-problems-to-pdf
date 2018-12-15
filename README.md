@@ -16,5 +16,5 @@ Example: <br>
  python3  problem-cutter.py  https://codeforces.com/contest/96/problem/a  1.pdf
 ```
 ## ScreenShots
-![Before](https://imgur.com/a/HXW3ziE)
-![After](https://imgur.com/a/HXW3ziE)
+![Before](https://i.imgur.com/mbeRm83.png)
+![After](https://i.imgur.com/HXW3ziE.png)
