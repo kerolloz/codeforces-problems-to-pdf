@@ -16,5 +16,14 @@ Example: <br>
  python3  problem-cutter.py  https://codeforces.com/contest/96/problem/a  1.pdf
 ```
 ## ScreenShots
-![Before](https://i.imgur.com/mbeRm83.png)
-![After](https://i.imgur.com/HXW3ziE.png)
+ <div class="row">
+
+ <div class="column">
+   <img src="https://i.imgur.com/lnY8T5Z.png" alt="Before" width="45%" height="50%"> 
+  </div>
+
+ <div class="column">
+   <img src="https://i.imgur.com/ZEoZLJZ.png" alt="After" width="45%" height="50%"> 
+  </div>
+
+</div> 
