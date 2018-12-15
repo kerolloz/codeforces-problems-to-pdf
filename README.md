@@ -16,14 +16,6 @@ Example: <br>
  python3  problem-cutter.py  https://codeforces.com/contest/96/problem/a  1.pdf
 ```
 ## ScreenShots
- <div class="row">
+   <img src="https://i.imgur.com/lnY8T5Z.png" alt="Before"> 
+   <img src="https://i.imgur.com/ZEoZLJZ.png" alt="After"> 
 
- <div class="column">
-   <img src="https://i.imgur.com/lnY8T5Z.png" alt="Before" width="45%" height="50%"> 
-  </div>
-
- <div class="column">
-   <img src="https://i.imgur.com/ZEoZLJZ.png" alt="After" width="45%" height="50%"> 
-  </div>
-
-</div> 
